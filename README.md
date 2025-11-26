@@ -18,9 +18,9 @@
 ## نحوه استفاده سریع
 1. کلون یا دانلود این مخزن:
    ```bash
-   wget https://your-git-host/monitoring-github-template.zip
-   unzip monitoring-github-template.zip
-   cd monitoring-github-template
+   wget https://github.com/itpiran/Netdata-vnStat-Nginx/archive/main.zip
+   unzip Netdata-vnStat-Nginx-main.zip
+   cd Netdata-vnStat-Nginx-main
    ```
 2. اجرای اسکریپت نصب:
    ```bash
