@@ -1,0 +1,8 @@
+# Ignore credentials and local artifacts
+*.log
+*.tmp
+/node_modules
+/dist
+/venv
+/__pycache__
+/secrets
