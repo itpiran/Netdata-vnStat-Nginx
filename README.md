@@ -1,4 +1,4 @@
-# Monitoring Stack: Netdata +  + Nginx
+# Monitoring Stack: Netdata + Nginx
 
 این مخزن قالبی آماده برای نصب مجموعه‌ی مانیتورینگ **Netdata** با **Nginx (reverse-proxy + SSL)** است.
 هدف: نصب آسان روی Ubuntu/Debian با یک اسکریپت و قابلیت گرفتن پارامترها (دامنه، ایمیل، احراز هویت پایه، و ...).
