@@ -55,11 +55,11 @@ fi
 # Install Netdata + vnStat
 ##########################
 
-if [[ -f "./scripts/install_netdata_vnstat.sh" ]]; then
+if [[ -f "./scripts/install_netdata.sh" ]]; then
     echo "Running Netdata installer..."
-    bash ./scripts/install_netdata_vnstat.sh
+    bash ./scripts/install_netdata.sh
 else
-    echo "WARNING: scripts/install_netdata_vnstat.sh missing. Skipping."
+    echo "WARNING: scripts/install_netdata.sh missing. Skipping."
 fi
 
 ##########################
